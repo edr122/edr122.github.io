@@ -58,7 +58,7 @@ a:hover{
 }
 body {
     color: #3c3c3c;
-    font: 300 14px open sans,sans-serif;
+    font: 400 14px open sans,sans-serif;
     letter-spacing: 0.5px;
     overflow-x: hidden;
 }
@@ -773,9 +773,9 @@ textarea:focus, textarea.form-control:focus, input.form-control:focus, input[typ
 
 .perspan{
     font-style: italic;
-    color: #a0a0a0;
+    color: #646464;
     display: block;
-    font-weight: 500;
+    font-weight: 600;
     padding-bottom: 5px;
 }
 .peritemexperience{
